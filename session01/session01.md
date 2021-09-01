@@ -51,6 +51,7 @@ Make sure the following tools and accounts are downloaded, installed, and set up
       1. Live Server (by Ritwick Dey)
 3. **GitHub**: Create an account on [GitHub](https://github.com/) using your SAIC email address.
    1. Create a repository for this class with the class title and your name (e.g. webart-dougrosman)
+   2. In the settings for that repo (not your general GitHub settings), enable GitHub Pages by setting your Branch to 'main', then hit 'Save'.
 4. **GitHub Desktop**: Download and install [GitHub Desktop](https://desktop.github.com/).
 5. **CodePen.io**: Create an account on [CodePen.io](https://codepen.io/). You can choose "sign up with your GitHub account"
 6. **Freecodecamp.org**: Create an account on [freecodecamp.org](https://www.freecodecamp.org/). You can choose "sign up with your GitHub account". After doing that, change the following in your Settings:
