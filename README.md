@@ -1,2 +1,3 @@
-# saic-webart-21fa
-Repository for SAIC Web Art Fall 2021
+# SAIC Web Art Fall 2021
+
+[Session 01 - 09/01/21](schedule/session01)
