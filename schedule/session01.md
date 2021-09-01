@@ -6,6 +6,7 @@
 
 1. [Intro survey](https://forms.gle/RspqiLTanhvfeNA18) - Please take 8-12 minutes to fill this out at the start of class. I'll use these surveys to take attendance.
 2. Greetings!
+3. Syllabus
 
 ---
 
@@ -14,6 +15,12 @@ Break
 ---
 
 ### Part 2
+
+1. Course Overview
+2. Tool Setup
+3. Brief intro to HTML
+4. Discuss assignments
+5. Questions and chat until class is over
 
 ## Assignments
 
@@ -27,17 +34,9 @@ In 300-500 words, respond to the following questions and prompts.
 
 While reading your responses will provide me a chance to get to know you better, the main goal of this assignment is to give you space to reflect, and articulate to yourselves how you feel about where you are.
 
-### 1-2. Freecodecamp.org tutorials: HTML and HTML5 Basics (Canvas submission required)
+### 1-2. Tool checklist
 
-* Complete all **28 tutorials** from the the [Basic HTML and HTML5 course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) in the Responsive Web Design Section.
-
-### 1-3. Web Design in 4 minutes
-
-* Read through and "do" [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) by [Jeremy Thomas](https://jgthms.com/). It really only takes 4 minutes!
-
-### 1-4. Tool checklist
-
-Make sure the following tools and accounts are downloaded, installed, and set up properly
+Make sure the following tools and accounts are downloaded, installed, and set up properly. We will set up all of these during our first class period, so if you miss anything, you can go back to the class recording.
 
 1. **Web Browser:** [Google Chrome](https://www.google.com/chrome/) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). Set either to your default browser during class time.
 2. **Text Editor:** [Visual Studio Code (VS Code)](https://code.visualstudio.com/). If you prefer using another Text Editor like Atom or Sublime Text, you may, but I recommend using VS Code. It's widely used, has a lot of great features, and the more we're on the same page, the better. After downloading/installing, change the following...
@@ -59,3 +58,12 @@ Make sure the following tools and accounts are downloaded, installed, and set up
    2. Scroll down to your Privacy Settings, and set the following to 'Public':
       1. My Profile
       2. My timeline
+
+### 1-3. Freecodecamp.org tutorials: HTML and HTML5 Basics (Canvas submission required)
+
+* Complete all **28 tutorials** from the the [Basic HTML and HTML5 course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) in the Responsive Web Design Section.
+
+### 1-4. Web Design in 4 minutes
+
+* Read through and "do" [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) by [Jeremy Thomas](https://jgthms.com/). It really only takes 4 minutes!
+
